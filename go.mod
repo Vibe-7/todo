@@ -2,10 +2,8 @@ module todo
 
 go 1.25.0
 
-require github.com/gorilla/mux v1.8.1
-
 require (
-	github.com/labstack/echo/v4 v4.15.0 // indirect
+	github.com/labstack/echo/v4 v4.15.0
 	github.com/labstack/gommon v0.4.2 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
